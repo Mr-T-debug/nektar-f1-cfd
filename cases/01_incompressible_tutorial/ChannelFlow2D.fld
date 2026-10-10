@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<NEKTAR>
+    <Metadata>
+        <Provenance>
+            <GitBranch>refs/heads/master</GitBranch>
+            <GitSHA1>d1cf8e4fb1b9fe5479577ca2e2b1a3bbd8d8bc23</GitSHA1>
+            <Hostname>596b45323d8e</Hostname>
+            <NektarVersion>5.10.0</NektarVersion>
+            <Timestamp>10-Oct-2026 13:13:53</Timestamp>
+        </Provenance>
+        <ChkFileNum>1</ChkFileNum>
+        <Kinvis>1</Kinvis>
+        <SessionName0>ChannelFlow2D.xml</SessionName0>
+        <Time>1.0000000000000007</Time>
+        <TimeStep>0.001</TimeStep>
+    </Metadata>
+    <ELEMENTS FIELDS="u,v,p" SHAPE="Quadrilateral" BASIS="Modified_A,Modified_A" NUMMODESPERDIR="UNIORDER:3,3" ID="0-3" COMPRESSED="B64Z-LittleEndian" BITSIZE="64">eJxjYMAHLtjf/g8C5+3rVuosKup/ZgMT14HSf8Hyn/fgMgGm/y6UNr2QzzSV9ZcNTL8WlP4Hkq4X3IvfXtzutIHSQaEg8H0PLntxmQDTbwWll60CAf69+O1lYLgbP+V5reksm4uT2PN4pBfDzW/6IqlpdWGVDX872/XtTg9xhg9M/xIf5XzluxNtIh7dOxFg2L8Hpj90VvSyx+qb9iQGnM95vemsDbo+dHtxgTO6wpFhs7bsCZu47OycLw9scNlLSH/otq9rC3W32rRO/JAS+Pf0nnPg8P1v3w+m3tt/i+yQ4wnm2CsLFTeAivcGb/fRjnCxtbW1Lz2zSdd2GmO5/SIZZduGnszZqdmhe2H6Yfax/HJyXjn5zB4DNPGUZ03nfzoL7IXph4kzH+t9zr1TAae956HidVDxFf0Sipvt+fdm/NhvrdWubcuueya8/IW07aQq3R8PpofsxWVvHZr4nf969vpy/21g+mHi6Zu35e5TZt0LAME7OZMA</ELEMENTS>
+</NEKTAR>
